@@ -65,7 +65,7 @@ python bot.py
 ## 📁 Project Structure
 
 ```
-/discord-bot  
+/discord-bot-base 
 │── bot.py           # Main bot file
 │── config.py        # Configuration settings
 │── commands/        # Commands directory
